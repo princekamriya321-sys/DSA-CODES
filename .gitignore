@@ -1,0 +1,63 @@
+# Mac files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Executable files
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# macOS
+.localized
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Executable files
+*.out
+*.exe
+*.o
+
+# Files without extension
+Lecture_*
+
+# Keep cpp files
+!*.cpp
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Executables
+*.out
+*.exe
+*.o
+
+# Files without extension
+Lecture_*
+
+# Keep cpp files
+!*.cpp
+.DS_Store
+.vscode/
+*.out
+*.exe
+*.o
+*.a
+*.dSYM
+*.txt
+*.json
+*.logfind FOUNDATION -type f ! -name "*.cpp" -delete
